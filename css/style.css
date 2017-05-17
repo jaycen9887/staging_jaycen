@@ -1,0 +1,31 @@
+body {
+    background-color: #CC0921;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+header {
+    height: 45px;
+    background-color: black;
+    color: #CC0921;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+
+img {
+    margin: 0 20px;
+    float: left;
+}
+
+footer {
+    height: 45px;
+    background-color: black;
+    color: #CC0921;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 20px;
+    
+}
